@@ -7,7 +7,7 @@ package function;
 
 /**
  *
- * @author PERSONAL
+ * @author Daniel Eduardo Peraza Rivera
  */
 import java.util.*;
 public class Function {
